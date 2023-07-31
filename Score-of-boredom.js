@@ -48,3 +48,5 @@ function boredom(staff){
   
   return score <= 80 ? 'kill me now': score < 100 && score > 80 ? 'i can handle this' : 'party time!!';
 }
+
+// or
